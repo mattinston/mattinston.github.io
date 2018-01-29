@@ -510,8 +510,9 @@ padding:0 0 0 6px;
 }
 
 .home-home{
-  padding: 7% 0 20% 40px;
+  padding: 7% 0 7% 40px;
   z-index: 20;
+  display:inline-block;
 
 }
 .home-home ul{
@@ -539,6 +540,26 @@ padding:0 0 0 6px;
 
   margin:26px 10px 0 0;
 }
+
+.social a{
+display:inline;
+}
+.intro-text{
+max-width: 380px;
+float:right;
+margin:7% 49% 0 0;
+
+
+}
+
+
+
+
+
+
+
+
+
 
 
 
@@ -646,14 +667,6 @@ color:red;
 }
 
 
-.social a{
-display:inline;
-}
-.intro-text{
-max-width: 380px;
-float:right;
-
-}
 
 
 

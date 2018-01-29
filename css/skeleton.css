@@ -647,10 +647,13 @@ color:red;
 
 
 .social a{
-
 display:inline;
 }
+.intro-text{
+max-width: 380px;
+float:right;
 
+}
 
 
 

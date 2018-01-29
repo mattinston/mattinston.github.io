@@ -512,10 +512,12 @@ padding:0 0 0 6px;
 .home-home{
   padding: 7% 0 20% 40px;
   z-index: 20;
+
 }
 .home-home ul{
   /*border-right:1px solid #fff;*/
   max-width: 630px;
+  display:none;
 }
 .home-home li{
   list-style: none;
@@ -638,7 +640,7 @@ color:red;
 .man{
 
   background-image: url(../images/lumo-back.svg);
-  background-size:cover; 
+  background-size:cover;
   background-repeat: no-repeat;
   height: 900px;
 }

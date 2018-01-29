@@ -550,8 +550,15 @@ float:right;
 margin:7% 49% 0 0;
 
 
-}
 
+}
+.intro-text p{
+
+font-family:helvetica !important;
+letter-spacing:2px;
+line-height: 1.6 !important;
+
+}
 
 
 

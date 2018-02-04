@@ -513,12 +513,16 @@ padding:0 0 0 6px;
   padding: 7% 0 7% 40px;
   z-index: 20;
   display:inline-block;
+  margin:0 0 0 3%;
+
+
 }
 
 .home-home, p::before{
   content'';
   color:#fff;
 height:50px;
+
 
 
   background-image: url(../images/grass.svg);

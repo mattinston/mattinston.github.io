@@ -509,14 +509,27 @@ padding:0 0 0 6px;
   background-color: #BADA55;
 }
 
+
+
 .home-home{
-  padding: 7% 0 7% 40px;
+  padding: 50px 0 7% 40px;
   z-index: 20;
   display:inline-block;
   margin:0 0 0 3%;
+}
+
+/* Larger than mobile */
+@media (min-width: 400px) {
+
+  .home-home{
+
+    margin:2rem 0 0 3%;
+    padding: 220px 0 7% 40px;
+  }
 
 
 }
+
 
 .home-home, p::before{
   content'';
@@ -537,10 +550,10 @@ height:50px;
 height:60px;;
 
 
-  background-image: url(../images/grass2.svg);
+  /*background-image: url(../images/grass2.svg);
   background-size:cover;
   background-repeat: no-repeat;
-  background-position: bottom right;
+  background-position: bottom right;*/
 }
 
 

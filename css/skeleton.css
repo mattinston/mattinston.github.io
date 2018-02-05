@@ -453,7 +453,10 @@ padding:0 0 0 6px;
   position: fixed;
   width: 100%;
   height: 100%;
-  background: #BADA55;
+  background-image: url(../images/bbb.svg);
+  background-size:cover;
+  background-repeat: no-repeat;
+
   opacity: 1;
   padding: 10% 0 100px 50px;
 }

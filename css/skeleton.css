@@ -698,10 +698,13 @@ top: 0;
   max-width: 480px;
   padding: 40px 40px 40px 0;
 }
+section{
+-webkit-overflow-scrolling: touch;
 
-
+}
 section img{
 max-width:340px;
+-webkit-overflow-scrolling: touch;
 }
 
 

@@ -698,14 +698,27 @@ color:red;
 
 .man{
 
-  background-image: url(../images/lumo-back.svg);
+  background-image: url(../images/Untitled-1.png);
   background-size:cover;
   background-repeat: no-repeat;
-  height: 900px;
+  background-position: left;
+  height: 600px;
+
 }
 
+.found p{
 
+font-size: 18px;
+font-weight: normal;
+letter-spacing: 1px;
+color: #bbb;
+}
+.found a{
 
+  color: #BADA55;
+  letter-spacing: 1px;
+
+}
 
 
 

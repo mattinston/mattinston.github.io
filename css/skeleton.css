@@ -375,12 +375,16 @@ hr {
 /* custom css
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .head-page{
+  padding:26px 0 0 0;
+  font-family:helvetica !important;
+
 }
 .head-page p{
-  letter-spacing: -8px;
+  letter-spacing: -4px;
   font-weight: 100 !important;
-  font-size: 8rem;
-  color: #efefef;
+  font-size: 5rem;
+  color: #BADA55;
+  opacity: 0.6;
 
 }
 
@@ -453,7 +457,7 @@ padding:0 0 0 6px;
   position: fixed;
   width: 100%;
   height: 100%;
-  background-image: url(../images/bbb.svg);
+  background-image: url(../images/winger3.svg);
   background-size:cover;
   background-repeat: no-repeat;
 
@@ -514,25 +518,24 @@ padding:0 0 0 6px;
 
 
 
-.home-home{
-  margin:12rem 0 0 3%;
-  padding: 80px 0 0 40px;
-  z-index: 20;
-  display:inline-block;
+        .home-home{
+          margin:12rem 0 0 3%;
+          padding: 80px 0 0 40px;
+          z-index: 20;
+          display:inline-block;
 
-}
+        }
 
-/* Larger than mobile */
-@media (min-width: 415px) {
+        /* Larger than mobile */
+        @media (min-width: 415px) {
 
-  .home-home{
+          .home-home{
 
-    margin:7rem 0 0 3%;
+            margin:7rem 0 0 3%;
 
-  }
+          }
 
-
-}
+        }
 
 
 .home-home, p::before{
@@ -667,9 +670,6 @@ video{
           filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a6000000', endColorstr='#00000000',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
 
 
-
-
-
 top: 0;
   bottom: 0;
   left: 0;
@@ -712,7 +712,6 @@ max-width:340px;
 
 
 #social-wrap strong{
-
 color:red;
 }
 
@@ -735,8 +734,9 @@ color: #bbb;
 }
 .found a{
 
-  color: #BADA55;
+  color: #333;
   letter-spacing: 1px;
+
 
 }
 

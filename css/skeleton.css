@@ -590,18 +590,20 @@ height:60px;;
 display:inline;
 }
 .intro-text{
-max-width: 380px;
-float:right;
-margin:7% 50% 0 0;
 
+margin:20px 0 0 60px;
+border-top: 1px solid #fff;
 
 
 }
-.intro-text p{
+.intro-text i{
 
 font-family:helvetica !important;
 letter-spacing:2px;
-line-height: 1.6 !important;
+
+max-width: 413px;
+font-size: 1.3rem;
+color: #fff;
 
 }
 
@@ -691,10 +693,8 @@ top: 0;
 }.text p{
   color: #fff;
   font-weight: 300;
-
   line-height: 1.7;
   font-size: 1.2rem;
-
   max-width: 480px;
   padding: 40px 40px 40px 0;
 }

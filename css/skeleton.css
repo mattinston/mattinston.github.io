@@ -432,14 +432,14 @@ padding:0 0 0 6px;
   margin: 0px;
   bottom: 30px;
   left: 30px;
-  border: 1px solid #BADA55;
+
   background:#fff;
   text-align: center;
    transition: 0.6s ease;
   transition-timing-function: cubic-bezier(.75, 0, .29, 1.01);
 }
 .icon-animate{
-  border: 1px solid #fff;
+
 }
 .hamburger{
   text-align: center;
